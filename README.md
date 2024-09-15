@@ -2,7 +2,7 @@
 Visualizing Information Retrieval Study Results for Result Assessment Tool
 
 # Description
-This add-on will aid researchers to have some initial visualizations based on the standard IR evaluation measures. 
+This add-on will aid researchers to have some initial visualizations based on the standard IR evaluation measures. There is a config.toml file for the theme. 
 
 # Requirements
 
